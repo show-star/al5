@@ -1,10 +1,5 @@
 # Big Data Practical 5: Real-Time Word Count with Spark Structured Streaming
 
-**Name:** Arvind Yadav
-**Seat no:** 31011123065
-**Class:** LYCS
-**Subject:** Big Data Analytics
-
 ## Aim
 
 Implement real-time stream processing with Spark Structured Streaming: read text sent through a socket and display a running word count.
